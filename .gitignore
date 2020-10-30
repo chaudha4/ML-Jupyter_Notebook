@@ -16,6 +16,7 @@ ipython_config.py
 # Temp Directories created at run time
 cats_and_dogs/
 *.zip
+__MACOSX/
 
 # Remove previous ipynb_checkpoints
 #   git rm -r .ipynb_checkpoints/

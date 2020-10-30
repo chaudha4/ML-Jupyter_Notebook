@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chaudha4/jupyter-notebook/master?filepath=cat_dog_image_classifier.ipynb)
+
 # Install
 
 Installed using
